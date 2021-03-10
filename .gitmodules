@@ -1,0 +1,4 @@
+[submodule "thesimplesergio/public"]
+	path = thesimplesergio/public
+	url = https://github.com/SergioAcostaPorto/blogm7.github.io.git
+	branch = main
